@@ -33,7 +33,7 @@ if __name__ == "__main__":
     # print(len(out))
 
 
-    ## Output from the scapper, this
+    ## Output from the scapper, looks like this
     """
     <Response [200]>
     Jobs
